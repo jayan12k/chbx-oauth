@@ -17,7 +17,7 @@ Analytics.
 
 # Become a Developer
 
-To add a "Log in With Chatterbox" to your site, simply sign up for a developer account [here](https://forms.google.com)
+To add a "Log in With Chatterbox" to your site, simply sign up for a developer account [here](https://forms.gle/UqrdeGsHyzqaV9dT6)
 Shortly after you contact us, we will send you an email with extended information on Chatterbox OAuth and eventually YOUR CREDENTIALS.
 
 
