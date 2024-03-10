@@ -33,14 +33,6 @@ After signing up for a developer account and your request being approved, you ca
 <html lang="en">
 <head>
   <style>
-    body {
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      height: 100vh;
-      margin: 0;
-      font-family: Arial, sans-serif;
-    }
 
     .login-btn {
       padding: 10px 20px;
