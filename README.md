@@ -75,7 +75,7 @@ HTML:
 
 It looks like this once you create an anchor tag where the 'href' is your authorization URL and it has the login-btn class.
 
-![img1](https:// "img1")
+![img1](https://github.com/jayan12k/chbx-oauth/blob/main/Screenshot%202024-03-10%20at%2011.18.12.png "img1")
 
 
 
