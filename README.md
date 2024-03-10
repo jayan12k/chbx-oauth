@@ -69,7 +69,7 @@ CSS:
 
 HTML:
 
- <a href="your_dev_url" class="login-btn">Log in with Chatterbox</a>
+<!-- <a href="your_dev_url" class="login-btn">Log in with Chatterbox</a> -->
 
 
 
