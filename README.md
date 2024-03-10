@@ -73,7 +73,7 @@ HTML:
 
 
 
-It looks like this
+It looks like this once you create an anchor tag where the 'href' is your authorization URL and it has the login-btn class.
 
 ![img1](https:// "img1")
 
