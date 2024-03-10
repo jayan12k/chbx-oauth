@@ -27,6 +27,8 @@ Shortly after you contact us, we will send you an email with extended informatio
 
 After signing up for a developer account and your request being approved, you can look on you dashboard and see your authorization URL. You can then copy and paste this as a hyperlink into your website in any style you want. One of our favorites is this:
 
+
+'''
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -65,9 +67,10 @@ After signing up for a developer account and your request being approved, you ca
   </style>
 </head>
 <body>
-  <a href="https://05ec372e-ea88-4189-af7f-bfd9d7b1c51e-00-38shxbs8c5qhr.kirk.replit.dev/oauth/authorize/test_token" class="login-btn">Log in with Chatterbox</a>
+  <a href="your_dev_url" class="login-btn">Log in with Chatterbox</a>
 </body>
 </html>
+'''
 
 
 
