@@ -27,12 +27,7 @@ Shortly after you contact us, we will send you an email with extended informatio
 
 After signing up for a developer account and your request being approved, you can look on you dashboard and see your authorization URL. You can then copy and paste this as a hyperlink into your website in any style you want. One of our favorites is this:
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Login Button</title>
+
   <style>
     body {
       display: flex;
@@ -66,11 +61,9 @@ After signing up for a developer account and your request being approved, you ca
       margin-left: 10px;
     }
   </style>
-</head>
-<body>
+
   <a href="your_authorization_url" class="login-btn">Log in with Chatterbox</a>
-</body>
-</html>
+
 
 
 
